@@ -1,0 +1,12 @@
+.content{
+    height: 300px;
+    width: 900px;
+    border: 2px solid black;
+    margin-left: 15%;
+    margin-top: 5%;
+    background-color: gray;
+}
+h1{
+    text-align: center;
+    color: white;
+}

@@ -1,0 +1,39 @@
+body{
+  margin: 0%;
+  padding: 0%;
+  background-color: rgb(3, 54, 54);
+}
+.fdd{
+  border: 2px solid rgb(3, 3, 3);
+  
+  background-color: rgb(30, 197, 141);
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 3%;
+  height: 750px;
+}
+.hedd{
+  margin-left: 10%;
+  color: aliceblue;
+  
+}
+#food{
+  margin-left: 10%;
+  margin-top: 5%;
+}
+#submit{
+margin-left: 33%;
+margin-top: 3%;
+}
+#reset{
+
+}
+h2{
+  color: rgb(130, 7, 56);
+}
+a{
+  text-decoration: none;
+  background-color: aliceblue;
+  margin-left: 30%;
+  margin-top: 30%;
+}

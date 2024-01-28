@@ -1,0 +1,42 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url(/image/diet2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100% 100%;
+}
+a{
+    text-decoration: none;
+    color: rgb(10, 10, 10);
+    font-size: 20px;
+
+}
+.logo{
+    
+    height: 70px;
+    width: 100%;
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    
+
+}
+.logo >h1{
+    margin-left: 25%;
+}
+
+
+#navbar >ul >li{
+    margin-top: 5%;
+}
+#navbar{
+    
+    
+    
+}
+
+
+    
+
+
